@@ -1,3 +1,6 @@
 [submodule "tp0-presentacion-git-masouto94"]
 	path = tp0-presentacion-git-masouto94
 	url = git@github.com:algo1unsam/tp0-presentacion-git-masouto94.git
+[submodule "tp1-gitmerge-grupo1"]
+	path = tp1-gitmerge-grupo1
+	url = git@github.com:algo1unsam/tp1-gitmerge-grupo1.git
