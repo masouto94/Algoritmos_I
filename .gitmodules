@@ -4,3 +4,6 @@
 [submodule "tp1-gitmerge-grupo1"]
 	path = tp1-gitmerge-grupo1
 	url = git@github.com:algo1unsam/tp1-gitmerge-grupo1.git
+[submodule "tp2-casa-masouto94"]
+	path = tp2-casa-masouto94
+	url = git@github.com:algo1unsam/tp2-casa-masouto94.git
