@@ -7,3 +7,9 @@
 [submodule "tp2-casa-masouto94"]
 	path = tp2-casa-masouto94
 	url = git@github.com:algo1unsam/tp2-casa-masouto94.git
+[submodule "tp3-empanadas-masouto94"]
+	path = tp3-empanadas-masouto94
+	url = git@github.com:algo1unsam/tp3-empanadas-masouto94.git
+[submodule "tp4-gofthrone-masouto94"]
+	path = tp4-gofthrone-masouto94
+	url = git@github.com:algo1unsam/tp4-gofthrone-masouto94.git
