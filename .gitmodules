@@ -16,3 +16,6 @@
 [submodule "tp-5-mensajeros-masouto94"]
 	path = tp-5-mensajeros-masouto94
 	url = git@github.com:algo1unsam/tp-5-mensajeros-masouto94.git
+[submodule "tp4-bis-gofthrone-masouto94"]
+	path = tp4-bis-gofthrone-masouto94
+	url = git@github.com:algo1unsam/tp4-bis-gofthrone-masouto94.git
