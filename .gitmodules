@@ -22,3 +22,6 @@
 [submodule "pepitagame-masouto94"]
 	path = pepitagame-masouto94
 	url = git@github.com:algo1unsam/pepitagame-masouto94.git
+[submodule "golosinas-herencia32-masouto94"]
+	path = golosinas-herencia32-masouto94
+	url = git@github.com:algo1unsam/golosinas-herencia32-masouto94.git
