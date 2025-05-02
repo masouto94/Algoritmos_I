@@ -25,3 +25,6 @@
 [submodule "golosinas-herencia32-masouto94"]
 	path = golosinas-herencia32-masouto94
 	url = git@github.com:algo1unsam/golosinas-herencia32-masouto94.git
+[submodule "dinoo-reventados"]
+	path = dinoo-reventados
+	url = git@github.com:algo1unsam/dinoo-reventados.git
