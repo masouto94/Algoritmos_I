@@ -28,3 +28,6 @@
 [submodule "dinoo-reventados"]
 	path = dinoo-reventados
 	url = git@github.com:algo1unsam/dinoo-reventados.git
+[submodule "tp-game-25s1-carnepicante"]
+	path = tp-game-25s1-carnepicante
+	url = git@github.com:algo1unsam/tp-game-25s1-carnepicante.git
