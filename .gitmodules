@@ -34,3 +34,6 @@
 [submodule "tp-integrador-masouto94"]
 	path = tp-integrador-masouto94
 	url = git@github.com:algo1unsam/tp-integrador-masouto94.git
+[submodule "academiademagia-masouto94"]
+	path = academiademagia-masouto94
+	url = git@github.com:algo1unsam/academiademagia-masouto94.git
